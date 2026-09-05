@@ -18,7 +18,6 @@
 
 - 🧭 **Frontend Chapter Lead at MasOrange** (Madrid) — I help several product teams ship from one big Nx meta-monorepo: 5 independent workspaces, React 17→19, Next.js, Vite, Astro & friends, all the way to GKE
 - 🤖 Currently all-in on **AI-augmented engineering** — specs, skills and agents baked into how we work every day (more below 👇)
-- 🔭 Observability nerd: **RUM with Grafana Faro + OpenTelemetry** for React apps — ask me about it, I have slides!
 - 🥑 Trying hard to be a great teammate: mentoring, DX and docs are features too
 - ⚡ Fun fact: some days our monorepo talks to more AI agents than humans 😄
 
@@ -28,6 +27,8 @@ AI isn't a side project for us — it's wired into the whole delivery loop, from
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-daily_driver-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code — daily driver" />
+  <img src="https://img.shields.io/badge/oh--my--pi-harness-C51A4A?style=for-the-badge" alt="oh-my-pi — harness" />
+  <img src="https://img.shields.io/badge/opencode-harness-444444?style=for-the-badge" alt="opencode — harness" />
   <img src="https://img.shields.io/badge/MCP-connected_tooling-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP — connected tooling" />
   <img src="https://img.shields.io/badge/OpenSpec-spec--driven_dev-FF7900?style=for-the-badge" alt="OpenSpec — spec-driven development" />
   <img src="https://img.shields.io/badge/Agent_Skills-40+_shared-6B4FBB?style=for-the-badge" alt="40+ shared agent skills" />
@@ -36,10 +37,11 @@ AI isn't a side project for us — it's wired into the whole delivery loop, from
 | Stage | What we do | Powered by |
 |:-----:|------------|------------|
 | 🧠 **Shape** | Spec-driven development: proposal → specs → design → tasks, humans and agents working from the same source of truth | OpenSpec + Jira |
-| 🏗️ **Build** | Agent-ready codebase: `AGENTS.md` guides everywhere + **40+ reusable agent skills** shared across AI harnesses | Claude Code |
+| 🏗️ **Build** | Agent-ready codebase: `AGENTS.md` guides everywhere + **40+ reusable agent skills** shared across our harnesses | Claude Code · oh-my-pi · opencode |
 | 🔌 **Connect** | Agents reach live docs, the browser, Slack and Jira through MCP servers | Model Context Protocol |
 | 👀 **Review** | Team-aware AI code review on every PR — each team gets rules tuned to its own code | Claude in GitHub Actions |
 | 📚 **Learn** | Skills as living knowledge: curated, versioned and shared — never locked into one vendor | [skills-manager](https://github.com/pateroski/skills-manager) (my OSS) |
+| 🔁 **Evolve** | Building loops that keep getting **more efficient and self-verifiable** — agents prove their own work before humans polish it | Us, always in the loop |
 
 <details>
 <summary><b>🧰 Peek inside the AI toolbox</b></summary>
@@ -52,7 +54,7 @@ AI isn't a side project for us — it's wired into the whole delivery loop, from
 
 </details>
 
-> 💡 My take: **AI is a force multiplier, not an autopilot** — specs first, humans in the loop, everything observable. 🧡
+> 💡 My take: **AI is a force multiplier, not an autopilot** — specs first, self-verifying loops, and **intent & review are never delegated**. 🧡
 
 ## 🛠️ Tech I work with daily
 
@@ -121,6 +123,6 @@ AI isn't a side project for us — it's wired into the whole delivery loop, from
 
 ## 📫 Let's connect
 
-Always happy to talk **frontend at scale**, **AI-augmented workflows** or **observability** — say hi on [X @pateroski](https://twitter.com/pateroski) 👋
+Always happy to talk **frontend at scale**, **AI-augmented workflows** or **self-verifying agent loops** — say hi on [X @pateroski](https://twitter.com/pateroski) 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7900,100:D97757&height=110&section=footer" alt="" width="100%" />
