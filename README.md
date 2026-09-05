@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://twitter.com/pateroski"><img src="https://img.shields.io/badge/@pateroski-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="https://www.linkedin.com/in/andresreyesnavas/"><img src="None" alt="LinkedIn — Andrés Reyes" /></a>
+  <a href="https://www.linkedin.com/in/andresreyesnavas/"><img src="assets/icons/linkedin-badge.svg" height="28" alt="LinkedIn — Andrés Reyes" /></a>
   <a href="https://github.com/masorange"><img src="https://img.shields.io/badge/@masorange-FF7900?style=for-the-badge&logo=github&logoColor=white" alt="MasOrange on GitHub" /></a>
   <a href="https://github.com/masmovil"><img src="https://img.shields.io/badge/@masmovil-FF7900?style=for-the-badge&logo=github&logoColor=white" alt="MásMóvil on GitHub" /></a>
   <img src="https://img.shields.io/badge/Madrid,_Spain-D97757?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
