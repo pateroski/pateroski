@@ -88,6 +88,7 @@ And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the
   <b>📡 Observability</b><br><br>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=2" alt="Grafana, Prometheus" />
   <img src="assets/icons/opentelemetry.svg" height="48" alt="OpenTelemetry" />
+  <img src="assets/icons/opsgenie.svg" height="48" alt="Opsgenie" />
 </p>
 
 ## 📌 Featured
