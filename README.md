@@ -65,29 +65,25 @@ AI isn't a side project for us — it's wired into the whole delivery loop, from
 
 <p align="center">
   <b>🧰 Monorepo & tooling</b><br><br>
+  <img src="assets/icons/nx.svg" height="48" alt="Nx" />
   <img src="https://skillicons.dev/icons?i=pnpm,nodejs,git,bash,python&perline=5" alt="pnpm, Node.js, Git, Bash, Python" />
 </p>
 
 <p align="center">
   <b>🧪 Testing & quality</b><br><br>
   <img src="https://skillicons.dev/icons?i=jest,vitest&perline=2" alt="Jest, Vitest" />
+  <img src="assets/icons/playwright.svg" height="48" alt="Playwright" />
 </p>
 
 <p align="center">
   <b>🚢 Platform & delivery</b><br><br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins,githubactions&perline=5" alt="Docker, Kubernetes, Google Cloud, Jenkins, GitHub Actions" />
+  <img src="assets/icons/helm.svg" height="48" alt="Helm" />
 </p>
 
 <p align="center">
   <b>📡 Observability</b><br><br>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=2" alt="Grafana, Prometheus" />
-</p>
-
-<p align="center">
-  <i>…plus the ones skillicons hasn't drawn yet 😉</i><br><br>
-  <img src="https://img.shields.io/badge/Nx-monorepos-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx" />
-  <img src="https://img.shields.io/badge/Playwright-e2e_testing-2EAD33?style=for-the-badge" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Helm-charts-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
 </p>
 
 ## 📌 Featured
