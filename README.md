@@ -81,11 +81,13 @@ And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the
   <b>🚢 Platform & delivery</b><br><br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins,githubactions&perline=5" alt="Docker, Kubernetes, Google Cloud, Jenkins, GitHub Actions" />
   <img src="assets/icons/helm.svg" height="48" alt="Helm" />
+  <img src="assets/icons/argocd.svg" height="48" alt="Argo CD" />
 </p>
 
 <p align="center">
   <b>📡 Observability</b><br><br>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=2" alt="Grafana, Prometheus" />
+  <img src="assets/icons/opentelemetry.svg" height="48" alt="OpenTelemetry" />
 </p>
 
 ## 📌 Featured
