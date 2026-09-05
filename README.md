@@ -1,5 +1,8 @@
 <!-- Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7900,100:D97757&height=190&section=header&text=%C2%A1Hola!%20I'm%20Andr%C3%A9s&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Chapter%20Lead%20%C2%B7%20AI-augmented%20engineering&descSize=20&descAlignY=58" alt="¡Hola! I'm Andrés — Frontend Chapter Lead · AI-augmented engineering" width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF7900,100:D97757&section=header&text=%C2%A1Hola!%20I'm%20Andr%C3%A9s&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Chapter%20Lead%20%C2%B7%20AI-augmented%20engineering&height=260&fontSize=84&fontAlignY=36&descSize=32&descAlignY=62">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7900,100:D97757&height=190&section=header&text=%C2%A1Hola!%20I'm%20Andr%C3%A9s&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Chapter%20Lead%20%C2%B7%20AI-augmented%20engineering&descSize=20&descAlignY=58" alt="¡Hola! I'm Andrés — Frontend Chapter Lead · AI-augmented engineering" width="100%" />
+</picture>
 
 <p align="center">
   <a href="https://github.com/pateroski">
