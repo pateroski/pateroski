@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://twitter.com/pateroski"><img src="https://img.shields.io/badge/@pateroski-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://www.linkedin.com/in/andresreyesnavas/"><img src="None" alt="LinkedIn — Andrés Reyes" /></a>
   <a href="https://github.com/masorange"><img src="https://img.shields.io/badge/@masorange-FF7900?style=for-the-badge&logo=github&logoColor=white" alt="MasOrange on GitHub" /></a>
   <a href="https://github.com/masmovil"><img src="https://img.shields.io/badge/@masmovil-FF7900?style=for-the-badge&logo=github&logoColor=white" alt="MásMóvil on GitHub" /></a>
   <img src="https://img.shields.io/badge/Madrid,_Spain-D97757?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
@@ -63,6 +64,7 @@ And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the
 <p align="center">
   <b>⚛️ Frontend at scale</b><br><br>
   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,astro,vite,webpack,materialui&perline=8" alt="React, TypeScript, JavaScript, Next.js, Astro, Vite, Webpack, MUI" />
+  <img src="assets/icons/tanstack.svg" height="48" alt="TanStack — Query, Router and soon Start" />
 </p>
 
 <p align="center">
@@ -111,6 +113,6 @@ And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the
 
 ## 📫 Let's connect
 
-Always happy to talk **frontend at scale**, **AI-augmented workflows** or **self-verifying agent loops** — say hi on [X @pateroski](https://twitter.com/pateroski) 👋
+Always happy to talk **frontend at scale**, **AI-augmented workflows** or **self-verifying agent loops** — say hi on [X @pateroski](https://twitter.com/pateroski) or find me on [LinkedIn](https://www.linkedin.com/in/andresreyesnavas/) 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7900,100:D97757&height=110&section=footer" alt="" width="100%" />
