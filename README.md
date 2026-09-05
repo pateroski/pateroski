@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/pateroski"><img src="https://img.shields.io/badge/@pateroski-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="https://www.linkedin.com/in/andresreyesnavas/"><img src="assets/icons/linkedin-badge.svg" height="28" alt="LinkedIn — Andrés Reyes" /></a>
+  <a href="https://twitter.com/pateroski"><img src="https://img.shields.io/badge/@pateroski-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="https://github.com/masorange"><img src="https://img.shields.io/badge/@masorange-FF7900?style=for-the-badge&logo=github&logoColor=white" alt="MasOrange on GitHub" /></a>
   <a href="https://github.com/masmovil"><img src="https://img.shields.io/badge/@masmovil-FF7900?style=for-the-badge&logo=github&logoColor=white" alt="MásMóvil on GitHub" /></a>
   <img src="https://img.shields.io/badge/Madrid,_Spain-D97757?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
@@ -32,9 +32,9 @@ AI isn't a side project for us — it's wired into the whole delivery loop, from
 And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the other way around. As our loops grow more **agentic** — agents that plan, execute and verify their own work — exactly two things stay non-negotiably human: **intent** (what to build and why) and **review** (what actually ships).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-daily_driver-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code — daily driver" />
-  <img src="https://img.shields.io/badge/oh--my--pi-harness-C51A4A?style=for-the-badge" alt="oh-my-pi — harness" />
-  <img src="https://img.shields.io/badge/opencode-harness-444444?style=for-the-badge" alt="opencode — harness" />
+  <img src="https://img.shields.io/badge/oh--my--pi-daily_driver-C51A4A?style=for-the-badge" alt="oh-my-pi — daily driver" />
+  <img src="https://img.shields.io/badge/opencode-daily_driver-444444?style=for-the-badge" alt="opencode — daily driver" />
+  <img src="https://img.shields.io/badge/Claude-PR_reviews-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude — PR reviews" />
   <img src="https://img.shields.io/badge/MCP-connected_tooling-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP — connected tooling" />
   <img src="https://img.shields.io/badge/OpenSpec-spec--driven_dev-FF7900?style=for-the-badge" alt="OpenSpec — spec-driven development" />
   <img src="https://img.shields.io/badge/Agent_Skills-40+_shared-6B4FBB?style=for-the-badge" alt="40+ shared agent skills" />
@@ -43,7 +43,7 @@ And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the
 | Stage | What we do | Powered by |
 |:-----:|------------|------------|
 | 🧠 **Shape** | Spec-driven development: proposal → specs → design → tasks, humans and agents working from the same source of truth | OpenSpec + Jira |
-| 🏗️ **Build** | Agent-ready codebase: `AGENTS.md` guides everywhere + **40+ reusable agent skills** shared across our harnesses | Claude Code · oh-my-pi · opencode |
+| 🏗️ **Build** | Agent-ready codebase: `AGENTS.md` guides everywhere + **40+ reusable agent skills** shared across our harnesses | oh-my-pi · opencode · Claude Code |
 | 🔌 **Connect** | Agents reach live docs, the browser, Slack and Jira through MCP servers | Model Context Protocol |
 | 👀 **Review** | Team-aware AI code review on every PR — each team gets rules tuned to its own code | Claude in GitHub Actions |
 | 📚 **Learn** | Skills as living knowledge: curated, versioned and shared — never locked into one vendor | [skills-manager](https://github.com/pateroski/skills-manager) (my OSS) |
@@ -96,14 +96,6 @@ And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the
   <img src="assets/icons/opsgenie.svg" height="48" alt="Opsgenie" />
 </p>
 
-## 📌 Featured
-
-| Project | What it is |
-|---------|------------|
-| 🧰 [**skills-manager**](https://github.com/pateroski/skills-manager) | Manage your AI agent skills across harnesses — privacy-first, no tracking of your AI activity |
-| 🔭 [**grafana-faro**](https://github.com/pateroski/grafana-faro) | Talk slides: *Grafana Faro — RUM with OpenTelemetry for React apps* ⚛️ |
-| 📱 [**phone-catalog-app**](https://github.com/pateroski/phone-catalog-app) | A phone catalog built with React |
-
 ## 📈 GitHub activity
 
 <p align="center">
@@ -116,6 +108,6 @@ And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the
 
 ## 📫 Let's connect
 
-Always happy to talk **frontend at scale**, **AI-augmented workflows** or **self-verifying agent loops** — say hi on [X @pateroski](https://twitter.com/pateroski) or find me on [LinkedIn](https://www.linkedin.com/in/andresreyesnavas/) 👋
+Always happy to talk **frontend at scale**, **AI-augmented workflows** or **self-verifying agent loops** — say hi on [LinkedIn](https://www.linkedin.com/in/andresreyesnavas/) 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7900,100:D97757&height=110&section=footer" alt="" width="100%" />
