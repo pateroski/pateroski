@@ -1,16 +1,118 @@
-### Hi there 👋
+<!-- Hero -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7900,100:D97757&height=190&section=header&text=%C2%A1Hola!%20I'm%20Andr%C3%A9s&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Chapter%20Lead%20%C2%B7%20AI-augmented%20engineering&descSize=20&descAlignY=58" alt="¡Hola! I'm Andrés — Frontend Chapter Lead · AI-augmented engineering" width="100%" />
 
-<!--
-**pateroski/pateroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/pateroski">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=FF7900&center=true&vCenter=true&width=640&height=60&lines=Frontend+Chapter+Lead+%40+MasOrange;Scaling+React+across+an+Nx+meta-monorepo;Making+AI+a+first-class+engineering+teammate" alt="Frontend Chapter Lead @ MasOrange · Scaling React across an Nx meta-monorepo · Making AI a first-class engineering teammate" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://twitter.com/pateroski"><img src="https://img.shields.io/badge/@pateroski-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://github.com/masmovil"><img src="https://img.shields.io/badge/@masmovil-FF7900?style=for-the-badge&logo=github&logoColor=white" alt="MasOrange on GitHub" /></a>
+  <img src="https://img.shields.io/badge/Madrid,_Spain-D97757?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About me
+
+- 🧭 **Frontend Chapter Lead at MasOrange** (Madrid) — I help several product teams ship from one big Nx meta-monorepo: 5 independent workspaces, React 17→19, Next.js, Vite, Astro & friends, all the way to GKE
+- 🤖 Currently all-in on **AI-augmented engineering** — specs, skills and agents baked into how we work every day (more below 👇)
+- 🔭 Observability nerd: **RUM with Grafana Faro + OpenTelemetry** for React apps — ask me about it, I have slides!
+- 🥑 Trying hard to be a great teammate: mentoring, DX and docs are features too
+- ⚡ Fun fact: some days our monorepo talks to more AI agents than humans 😄
+
+## 🤖 How we build with AI
+
+AI isn't a side project for us — it's wired into the whole delivery loop, from the first idea to the merged PR:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-daily_driver-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code — daily driver" />
+  <img src="https://img.shields.io/badge/MCP-connected_tooling-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP — connected tooling" />
+  <img src="https://img.shields.io/badge/OpenSpec-spec--driven_dev-FF7900?style=for-the-badge" alt="OpenSpec — spec-driven development" />
+  <img src="https://img.shields.io/badge/Agent_Skills-40+_shared-6B4FBB?style=for-the-badge" alt="40+ shared agent skills" />
+</p>
+
+| Stage | What we do | Powered by |
+|:-----:|------------|------------|
+| 🧠 **Shape** | Spec-driven development: proposal → specs → design → tasks, humans and agents working from the same source of truth | OpenSpec + Jira |
+| 🏗️ **Build** | Agent-ready codebase: `AGENTS.md` guides everywhere + **40+ reusable agent skills** shared across AI harnesses | Claude Code |
+| 🔌 **Connect** | Agents reach live docs, the browser, Slack and Jira through MCP servers | Model Context Protocol |
+| 👀 **Review** | Team-aware AI code review on every PR — each team gets rules tuned to its own code | Claude in GitHub Actions |
+| 📚 **Learn** | Skills as living knowledge: curated, versioned and shared — never locked into one vendor | [skills-manager](https://github.com/pateroski/skills-manager) (my OSS) |
+
+<details>
+<summary><b>🧰 Peek inside the AI toolbox</b></summary>
+<br>
+
+- **Spec workflow skills** — propose, design, verify and archive changes without losing the paper trail
+- **Docs automation** — TechDocs, ADRs, runbooks and catalog entries generated and kept honest by agents
+- **Guardrail skills** — AI code review rules, writing de-slop, guided learning (`guide-me`, `quiz-me`) so the humans keep growing too
+- **[skills-manager](https://github.com/pateroski/skills-manager)** — my own open-source CLI to install, update and track agent skills across harnesses, privacy-first 🔒
+
+</details>
+
+> 💡 My take: **AI is a force multiplier, not an autopilot** — specs first, humans in the loop, everything observable. 🧡
+
+## 🛠️ Tech I work with daily
+
+<p align="center">
+  <b>⚛️ Frontend at scale</b><br><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,astro,vite,webpack,materialui&perline=8" alt="React, TypeScript, JavaScript, Next.js, Astro, Vite, Webpack, MUI" />
+</p>
+
+<p align="center">
+  <b>🧰 Monorepo & tooling</b><br><br>
+  <img src="https://skillicons.dev/icons?i=nx,pnpm,nodejs,git,bash,python&perline=6" alt="Nx, pnpm, Node.js, Git, Bash, Python" />
+</p>
+
+<p align="center">
+  <b>🧪 Testing & quality</b><br><br>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,playwright&perline=3" alt="Jest, Vitest, Playwright" />
+</p>
+
+<p align="center">
+  <b>🚢 Platform & delivery</b><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,gcp,jenkins,githubactions&perline=6" alt="Docker, Kubernetes, Helm, Google Cloud, Jenkins, GitHub Actions" />
+</p>
+
+<p align="center">
+  <b>📡 Observability</b><br><br>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=2" alt="Grafana, Prometheus" />
+</p>
+
+## 📌 Featured
+
+| Project | What it is |
+|---------|------------|
+| 🧰 [**skills-manager**](https://github.com/pateroski/skills-manager) | Manage your AI agent skills across harnesses — privacy-first, no tracking of your AI activity |
+| 🔭 [**grafana-faro**](https://github.com/pateroski/grafana-faro) | Talk slides: *Grafana Faro — RUM with OpenTelemetry for React apps* ⚛️ |
+| 📱 [**phone-catalog-app**](https://github.com/pateroski/phone-catalog-app) | A phone catalog built with React |
+
+## 📈 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pateroski&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pateroski&show_icons=true&theme=default&hide_border=true&rank_icon=github">
+    <img height="165" alt="Andrés' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pateroski&show_icons=true&theme=default&hide_border=true&rank_icon=github">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pateroski&layout=compact&langs_count=8&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pateroski&layout=compact&langs_count=8&theme=default&hide_border=true">
+    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateroski&layout=compact&langs_count=8&theme=default&hide_border=true">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pateroski&theme=github-dark-blue&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pateroski&hide_border=true">
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=pateroski&hide_border=true">
+  </picture>
+</p>
+
+## 📫 Let's connect
+
+Always happy to talk **frontend at scale**, **AI-augmented workflows** or **observability** — say hi on [X @pateroski](https://twitter.com/pateroski) 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7900,100:D97757&height=110&section=footer" alt="" width="100%" />
