@@ -98,19 +98,10 @@ AI isn't a side project for us — it's wired into the whole delivery loop, from
 | 🔭 [**grafana-faro**](https://github.com/pateroski/grafana-faro) | Talk slides: *Grafana Faro — RUM with OpenTelemetry for React apps* ⚛️ |
 | 📱 [**phone-catalog-app**](https://github.com/pateroski/phone-catalog-app) | A phone catalog built with React |
 
-## 📈 GitHub stats
+## 📈 GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pateroski&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pateroski&show_icons=true&theme=default&hide_border=true&rank_icon=github">
-    <img height="165" alt="Andrés' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pateroski&show_icons=true&theme=default&hide_border=true&rank_icon=github">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pateroski&layout=compact&langs_count=8&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pateroski&layout=compact&langs_count=8&theme=default&hide_border=true">
-    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateroski&layout=compact&langs_count=8&theme=default&hide_border=true">
-  </picture>
+  <img src="https://ghchart.rshah.org/FF7900/pateroski" alt="Andrés' contribution graph" width="92%" />
 </p>
 
 <p align="center">
