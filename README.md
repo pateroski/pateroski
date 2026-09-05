@@ -101,10 +101,6 @@ AI isn't a side project for us — it's wired into the whole delivery loop, from
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF7900/pateroski" alt="Andrés' contribution graph" width="92%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pateroski&theme=github-dark-blue&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pateroski&hide_border=true">
