@@ -75,13 +75,13 @@ And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the
 
 <p align="center">
   <b>🧪 Testing & quality</b><br><br>
-  <img src="https://skillicons.dev/icons?i=jest,vitest&perline=2" alt="Jest, Vitest" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress&perline=3" alt="Jest, Vitest, Cypress" />
   <img src="assets/icons/playwright.svg" height="48" alt="Playwright" />
 </p>
 
 <p align="center">
   <b>🚢 Platform & delivery</b><br><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins,githubactions&perline=5" alt="Docker, Kubernetes, Google Cloud, Jenkins, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,gcp,jenkins,githubactions&perline=6" alt="Docker, Kubernetes, NGINX, Google Cloud, Jenkins, GitHub Actions" />
   <img src="assets/icons/helm.svg" height="48" alt="Helm" />
   <img src="assets/icons/argocd.svg" height="48" alt="Argo CD" />
 </p>
