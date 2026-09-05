@@ -17,13 +17,15 @@
 ## 👋 About me
 
 - 🧭 **Frontend Chapter Lead at MasOrange** (Madrid) — I help several product teams ship from one big Nx meta-monorepo: 5 independent workspaces, React 17→19, Next.js, Vite, Astro & friends, all the way to GKE
-- 🤖 Currently all-in on **AI-augmented engineering** — specs, skills and agents baked into how we work every day (more below 👇)
+- 🤖 Currently all-in on **AI-augmented engineering** — specs, skills and agents baked into how we work every day, and getting more **agentic** by the sprint (more below 👇)
 - 🥑 Trying hard to be a great teammate: mentoring, DX and docs are features too
 - ⚡ Fun fact: some days our monorepo talks to more AI agents than humans 😄
 
 ## 🤖 How we build with AI
 
-AI isn't a side project for us — it's wired into the whole delivery loop, from the first idea to the merged PR:
+AI isn't a side project for us — it's wired into the whole delivery loop, from the first idea to the merged PR.
+
+And we say **AI-augmented** on purpose: the AI amplifies the engineer, never the other way around. As our loops grow more **agentic** — agents that plan, execute and verify their own work — exactly two things stay non-negotiably human: **intent** (what to build and why) and **review** (what actually ships).
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-daily_driver-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code — daily driver" />
